@@ -1,9 +1,9 @@
 section {
     padding:20px; 
     margin:20px;}
-.title {
-    background-color: #A6BE9E;
-    font-weight: bold;
+.script {
+    font-color: red;
+    
         }
 .article {
     background-color: #357074;
