@@ -1,18 +1,5 @@
-section {
-    padding:20px; 
-    margin:20px;}
-.script {
-    font-color: red;
-    
-        }
-.article {
-    background-color: #357074;
-    color: #FFF3BC;
-    font-size: x-small;
-        }
-.brand {
-    background-color: #082833;
-    color: #C24726;
-    font-weight: bold;
-    font-size: x-large;
-        }
+button {font-family: 'Times New Roman', Times, serif; padding:10px;}
+body
+{
+    background-color: aqua; text-align:center; font-weight: bold;
+}
