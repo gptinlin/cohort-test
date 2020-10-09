@@ -1,5 +1,5 @@
-button {font-family: 'Times New Roman', Times, serif; padding:10px;}
+button {font-family: 'Times New Roman', Times, serif; padding:100px;}
 body
 {
-    background-color: aqua; text-align:center; font-weight: bold;
+    background-color: aqua; text-align:center; color: blue;
 }
